@@ -1,0 +1,16 @@
+C:\Estudos\.Net\AplicationPOO\bin\Debug\net5.0\AplicationPOO.exe
+C:\Estudos\.Net\AplicationPOO\bin\Debug\net5.0\AplicationPOO.deps.json
+C:\Estudos\.Net\AplicationPOO\bin\Debug\net5.0\AplicationPOO.runtimeconfig.json
+C:\Estudos\.Net\AplicationPOO\bin\Debug\net5.0\AplicationPOO.runtimeconfig.dev.json
+C:\Estudos\.Net\AplicationPOO\bin\Debug\net5.0\AplicationPOO.dll
+C:\Estudos\.Net\AplicationPOO\bin\Debug\net5.0\ref\AplicationPOO.dll
+C:\Estudos\.Net\AplicationPOO\bin\Debug\net5.0\AplicationPOO.pdb
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.csprojAssemblyReference.cache
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.AssemblyInfoInputs.cache
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.AssemblyInfo.cs
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.csproj.CoreCompileInputs.cache
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.dll
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\ref\AplicationPOO.dll
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.pdb
+C:\Estudos\.Net\AplicationPOO\obj\Debug\net5.0\AplicationPOO.genruntimeconfig.cache
